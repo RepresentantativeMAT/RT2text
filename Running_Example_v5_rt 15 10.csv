@@ -1,0 +1,24 @@
+Info input dataset:
+|input.T|, |input.T.points|
+3, 17
+##
+RT setting infos:
+thresholdCellSize, CellSize, tauRelevantCell, tauRepresentativenessValue, |cell|, minPointRC, |rt|, |coverPoints|, runtime start, runtime end
+9, 4.602687082099914, 0.15, 0.1, 5, 2.5500002, 14, 16, 23-07-07 14:41:12.958, 23-07-07 14:41:13.275
+##
+RT description:
+lat_lon, time, PRICE, POI, WEATHER, PRECIP, mapping
+0.0 6.2, 05:45, {*-1: 1.0}, {HOME: 1.0}, {CLEAR: 1.0}, 10.0, {1: 1}
+0.4 6.7, 06:15, {*-1: 1.0}, {HOME: 1.0}, {CLEAR: 1.0}, 15.0, {2: 7}
+1.0 6.8, 06:50, {*-1: 1.0}, {HOME: 1.0}, {CLEAR: 1.0}, 10.0, {3: 13}
+2.5 10.5, 10:10, {*2: 1.0}, {LIBRARY: 1.0}, {CLOUDS: 1.0}, 15.0, {2: 8}
+4.0 14.5, 10:35, {*2: 1.0}, {SHOPPING: 1.0}, {CLOUDS: 1.0}, 15.0, {3: 14}
+0.8 6.2, 11:57, {*2: 1.0}, {LIBRARY: 1.0}, {CLOUDS: 1.0}, 20.0, {1: 2}
+3.0 13.5, 12:20, {*3: 1.0}, {RESTAURANT: 1.0}, {CLOUDS: 1.0}, 20.0, {2: 9}
+4.3 17.9, 14:15, {*-1: 1.0}, {UNIVERSITY: 1.0}, {CLOUDS: 1.0}, 15.0, {3: 15}
+3.1 11.0, 17:12, {*2: 1.0}, {SHOPPING: 1.0}, {CLEAR: 1.0}, 10.0, {1: 3}
+6.3 13.1, 18:00, {*1: 1.0}, {RESTAURANT: 1.0}, {CLEAR: 1.0}, 10.0, {3: 16}
+4.3 16.9, 19:39, {*-1: 1.0}, {UNIVERSITY: 1.0}, {CLEAR: 1.0}, 0.0, {1: 4}
+6.3 13.0, 21:23, {*1: 1.0}, {RESTAURANT: 1.0}, {CLEAR: 1.0}, 10.0, {2: 11}
+6.2 12.05, 22:15 - 22:24, {*1: 0.5; *2: 0.5}, {RESTAURANT: 1.0}, {CLEAR: 1.0}, 5.0, {1: 5; 3: 17}
+0.5 6.55, 23:20 - 23:30, {*-1: 1.0}, {HOME: 1.0}, {CLEAR: 1.0}, 12.5, {1: 6; 2: 12}
