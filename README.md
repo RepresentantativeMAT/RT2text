@@ -9,7 +9,7 @@ Dependencies:
 - Template class from the module jinja2;
 - datetime class from the module datetime;
 
-The modules os, re, collections and datetime are all part of the Python standard library and consequently doesn't need no further installations to work. Jinja2 however needs to be downloaded:
+The modules os, re, collections and datetime are all part of the Python standard library and consequently doesn't need no further installations to work. Jinja2 however needs to be downloaded.
 
 In case you are running the file on google colab or jupiter notebook use the command:
 
