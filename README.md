@@ -20,4 +20,10 @@ In case you are running the file on google colab or jupiter notebook use the com
 
 !pip install Jinja2
 
+How to cite:
+
+MENEGOL, Lucas da Silva; MACHADO, Vanessa Lago; BERNARDI, Élder Francisco Fontana; PORTELA, Tarlis Tortelli. RT2text: Making Trajectory Summarization More Accessible through Text Generation. In: ESCOLA REGIONAL DE BANCO DE DADOS (ERBD), 20. , 2025, Florianópolis/SC. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2025 . p. 153-156. ISSN 2595-413X. DOI: https://doi.org/10.5753/erbd.2025.6756.
+
+MENEGOL, Lucas da Silva; MACHADO, Vanessa Lago; BERNARDI, Élder Francisco Fontana; PORTELA, Tarlis Tortelli. RT2text em Ação: Análise Semântica de Ocorrências de Segurança Pública em Curitiba. In: IV Congresso de Tecnologia da Informação do IFSul, 2025, Passo Fundo/RS. Anais do IV Congresso de Tecnologia da Informação do IFSul
+
 
